@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1685541775 source:e:\programa«√o\aeds 1\prjexercicio01\circulo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"circulo.h"
+
+1685386684 e:\programa«√o\aeds 1\prjexercicio01\circulo.h
+	<stdio.h>
+
+1685541712 source:e:\programa«√o\aeds 1\prjexercicio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circulo.h"
+

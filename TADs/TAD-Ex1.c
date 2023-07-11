@@ -128,12 +128,12 @@ int main()
 {
 
     time *v_times;
-    v_times = (time*)malloc(1 * sizeof(time));
+    v_times = (time*)malloc(3 * sizeof(time));
 
-    cadastro(v_times, 1);
-    imprimir(v_times, 1);
-    imprimir_maior_sal(v_times, 1);
-    imprimir_time_novo(v_times, 1);
+    cadastro(v_times, 3);
+    imprimir(v_times, 3);
+    imprimir_maior_sal(v_times, 3);
+    imprimir_time_novo(v_times, 3);
 
     free(v_times);
 

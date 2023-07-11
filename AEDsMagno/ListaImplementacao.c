@@ -32,7 +32,7 @@ void FLVazia(TLista *Lista)
 {
   Lista->primeiro = (TCelula *)malloc(sizeof(TCelula));
   Lista->ultimo = Lista->primeiro;
-  Lista->primeiro->prox = NULL;
+  Lista->primeiro->prox = NULL; 
   Lista->tamanho = 0;
 }
 
@@ -42,7 +42,7 @@ int Vazia(TLista Lista)
 }
 
 void Inserir(TProduto x, TLista *Lista)
-{
+{ 
 
   Lista->ultimo->prox =
       (TCelula *)malloc(sizeof(TCelula));
@@ -196,7 +196,7 @@ int main()
       printf("Insira o codigo do produto: ");
       scanf("%d", &prod.codigo);
       TCelula *achou = NULL;
-      achou = Pesquisar(Lista, prod);
+      achou = Pesquisar(Lista, prod); 
 
       if (achou)
       {

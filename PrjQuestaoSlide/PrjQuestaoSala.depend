@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685060545 source:c:\users\win 10\desktop\mixcodes\prjquestaosala\contabancaria.c
+	<stdio.h>
+	"ContaBancaria.h"
+
+1685060154 c:\users\win 10\desktop\mixcodes\prjquestaosala\contabancaria.h
+	<stdio.h>
+
+1685060484 source:c:\users\win 10\desktop\mixcodes\prjquestaosala\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ContaBancaria.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1687295893 source:c:\users\aluno.li2-16556927\desktop\dardanne\prjexemplosala\lista.c
+	<stdio.h>
+	"lista.h"
+
+1687294146 c:\users\aluno.li2-16556927\desktop\dardanne\prjexemplosala\lista.h
+
+1687296304 source:c:\users\aluno.li2-16556927\desktop\dardanne\prjexemplosala\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1687356517 source:e:\programa«√o\aeds 1\tads\prjexemplosala\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1687356447 e:\programa«√o\aeds 1\tads\prjexemplosala\lista.h
+
+1687356289 source:e:\programa«√o\aeds 1\tads\prjexemplosala\lista.c
+	<stdio.h>
+	"lista.h"
+
